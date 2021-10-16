@@ -6,7 +6,7 @@ This project was made as the term project of the BLG 506E Computer Vision master
 All presentations, project proposal and project report can be found in this repo. 
 <br />
 <br />
-If you want to learn more information about the project, you can read project proposol documents or the final report.
+If you want to learn more information about the project, you can read project proposal documents or the final report.
 <br />
 <br />
 The dataset used in this project belongs to the Chess Positions dataset put by Pavel Koryakin on the Kaggle website. 
