@@ -17,5 +17,5 @@ The whole dataset includes 100000 images of a randomly generated chess positions
 <br />
 <br />
 #
-If you want to use any information or code snippet from the project, please reference me and this project.
+If you want to use any information or code snippet from the project, please reference me and this project. Also, please give a star to this repo.
 <br />
